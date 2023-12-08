@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "name": "PRODUCT1",
+      "price": 1599,
+      "checked": true,
+      "id": 1
+    },
+    {
+      "name": "Iphone 13",
+      "price": 1500,
+      "checked": true,
+      "id": 2
+    },
+    {
+      "name": "Airpods Case",
+      "price": 0,
+      "checked": true,
+      "id": 3
+    },
+    {
+      "name": "RandoMvALUE",
+      "price": 500,
+      "checked": true,
+      "id": 4
+    },
+    {
+      "name": "ASUS TUF  ",
+      "price": "1200",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "name": "Airpods ",
+      "price": "249",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "IPhone 15 ",
+      "price": "1600",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "PS5 ",
+      "price": "599",
+      "checked": true,
+      "id": 8
+    },
+    {
+      "name": "fries",
+      "price": "11",
+      "checked": true,
+      "id": 9
+    },
+    {
+      "name": "pizza",
+      "price": "456",
+      "checked": true,
+      "id": 10
+    },
+    {
+      "name": "burgers",
+      "price": "1000",
+      "checked": true,
+      "id": 11
+    },
+    {
+      "name": "product",
+      "price": "1235",
+      "checked": true,
+      "id": 12
+    },
+    {
+      "name": "fdsf",
+      "price": 0,
+      "checked": true,
+      "id": 13
+    },
+    {
+      "name": "myprod",
+      "price": "1",
+      "checked": false,
+      "id": 14
+    },
+    {
+      "name": "test",
+      "price": "015",
+      "checked": false,
+      "id": 15
+    }
+  ]
+}
